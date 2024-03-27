@@ -8,8 +8,21 @@ body{
 
 main{
     background-color: white;
-    width: 500px;
+    width: 600px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.568);
+}
+img.lado{
+    float: right;
+    width: 70px;
+    height: 70px;
+}
+img.lado1{
+    width: 100px;
+    height: 100px;
+}
+img.lado2{
+    width: 50px;
+    height: 50px;
 }
